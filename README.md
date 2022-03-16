@@ -2,7 +2,7 @@
 
 The project is about the implementation of two micro services which are customer and order.
 
-Here are the testings for order and customer
+Here are the images for order and customer tested with Postman
 ![image](https://user-images.githubusercontent.com/68396335/158639149-24de7dea-81e0-4678-ac63-9fe02d930c5a.png)
 
 
